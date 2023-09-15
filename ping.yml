@@ -1,1 +1,4 @@
-ansible all -m ping -v
+- hosts:
+    - all
+  tasks:
+    - action: ping
