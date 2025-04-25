@@ -1,2 +1,0 @@
-- name: Windows Ping
-  ansible.windows.win_ping:
